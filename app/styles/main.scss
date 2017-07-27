@@ -99,3 +99,14 @@ body {
 input {
   margin-bottom: 10px;
 }
+
+.btn-style {
+  background: white;
+  border-radius: 50%;
+}
+
+.width {
+  max-width: 85px;
+  margin: 10px auto;
+  display: inline-flex;
+}
